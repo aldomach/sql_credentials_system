@@ -74,7 +74,7 @@ El **Gestor Seguro de Credenciales SQL Server** es un sistema completo para alma
 ### Paso 1: Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/gestor-credenciales-sql.git
+git clone https://github.com/aldomach/sql_credentials_system.git
 cd gestor-credenciales-sql
 ```
 
@@ -511,10 +511,10 @@ Algunas ideas que estoy considerando:
 
 ### 📞 Contacto y Soporte
 
-- **🐛 Bugs:** [Abrí un issue](https://github.com/tu-usuario/gestor-credenciales-sql/issues)
-- **💡 Feature requests:** [Discusiones](https://github.com/tu-usuario/gestor-credenciales-sql/discussions)
+- **🐛 Bugs:** [Abrí un issue](https://github.com/aldomach/sql_credentials_system/issues)
+- **💡 Feature requests:** [Discusiones](https://github.com/aldomach/sql_credentials_system/discussions)
 - **📖 Documentación:** Mirá la carpeta `docs/` para más detalles
-- **❓ Preguntas:** Usá las [GitHub Discussions](https://github.com/tu-usuario/gestor-credenciales-sql/discussions)
+- **❓ Preguntas:** Usá las [GitHub Discussions](https://github.com/aldomach/sql_credentials_system/discussions)
 
 ---
 
